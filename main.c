@@ -65,8 +65,8 @@
 
 // Included header files...
 #include <xc.h>
-#include "PIC_I2C_Header_File.h"
-#include "PIC_LCD_Header_File.h"
+#include "I2C.h"
+#include "LCD.h"
 #include <stdlib.h>
 #include <string.h>
 

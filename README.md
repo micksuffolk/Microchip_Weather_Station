@@ -1,5 +1,3 @@
-# Weather_Station_01
-Weather Station using Microchip PIC16F887
+# Weather Station
 
-Application Developed using Microchip MPLABX IDE V3.65 and using programmer PICKit3.
-(The application doesn't seem to compile properly on later versions of MPLABX.)
+Weather Station (Temperature, Humidity, and Pressure) using Microchip PIC16F887 & LCD display. Application Developed using Microchip MPLABX IDE and XC8 compiler.

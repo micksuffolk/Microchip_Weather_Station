@@ -1,0 +1,17 @@
+﻿Reference,Item,Value,Order Code,Quantity
+"R1,R2,R5",Resistor,4k7 Ohm 0.25W,-,3
+"R8,R9",Resistor,1k8 Ohm 0.25W,-,2
+R10,Resistor,232 Ohm 0.25W,-,1
+"C1,C2",Capacitor,22pF,-,2
+C7,Capacitor,100nF,-,1
+U1,Processor,PIC16F887,RS 399-410P,1
+Q1,Transistor,BC548C,RS 803-1106,1
+D1,LED,DIODE-LED,-,1
+J1,DC-DC Converter,DC-DC Converter 5V,RS 187-4476,1
+J15,Header,SIL-100-06,-,1
+J2,Sensor,BME280 Interface Board 5V,-,1
+J3,USB Connector,Micro USB Interface Board,-,1
+LCD1,LCD,LCD2004 (4x20 Display),LCD2004,1
+RV1,POT,10kOhm 6mm POT,-,1
+SW1,Push Button,PVA Short Stroke Key Switch,RS 154-6146,1
+X1,Crystal,Crystal 8MHz,-,1
